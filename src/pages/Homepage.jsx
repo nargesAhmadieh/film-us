@@ -8,7 +8,7 @@ export default function Homepage() {
   });
 
   function handleDeleteFilms(id) {
-    // setFilms((films) => films.filter((film) => film.id !== id));
+    
     const updateFilms = films.filter((film) => film.id !== id);
     localStorage.setItem("films", JSON.stringify(updateFilms));
     setFilms(updateFilms);
