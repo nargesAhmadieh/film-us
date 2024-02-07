@@ -1,0 +1,20 @@
+.AboutUs {
+  /* padding: 20px;
+  margin: 20px;
+  border: 2px solid #ccc; */
+  padding: 20px;
+  border: 2px solid #ccc;
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+.AboutUs h3 {
+  text-align: center;
+  font-size: 4.5rem;
+  padding-bottom: 1rem;
+}
+.AboutUs p {
+  font-size: 2rem;
+  text-align: right;
+}

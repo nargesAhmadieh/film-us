@@ -1,0 +1,31 @@
+.MovieDetails {
+  padding: 20px;
+  border: 2px solid #ccc;
+  padding: 20px;
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.MovieDetails h1 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.MovieDetails img {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.MovieDetails p {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.MovieDetails h4 {
+  margin-bottom: 10px;
+  font-size: 20px;
+}
