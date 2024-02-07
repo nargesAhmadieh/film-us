@@ -2,7 +2,7 @@ import styles from "./Loader.module.css";
 
 function Loader() {
   return (
-    <p className="error">
+    <p className={styles.loader}>
       <span>🚫 درحال بارگذاری</span>
       {message}
     </p>
