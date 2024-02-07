@@ -1,12 +1,12 @@
-import styles from "./Loader.module.css";
+// import styles from "./Loader.module.css";
 
-function Loader() {
-  return (
-    <p className={styles.loader}>
-      <span>🚫 درحال بارگذاری</span>
-      {message}
-    </p>
-  );
-}
+// function Loader() {
+//   return (
+//     <p className={styles.loader}>
+//       <span>🚫 درحال بارگذاری</span>
+//       {message}
+//     </p>
+//   );
+// }
 
-export default Loader;
+// export default Loader;

@@ -24,7 +24,7 @@ function MovieDetails() {
     [id]
   );
   if (!movie) {
-    return <div>درحال بارگذاری</div>;
+    return <div className="div">🚫درحال بارگذاری</div>;
   } else {
     return (
       <div className={styles.MovieDetails}>
