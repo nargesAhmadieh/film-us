@@ -1,6 +1,6 @@
 Film-Us
 
-In us movie application, I display a list of popular movies in different genres.
+In film-Us application, I display a list of popular movies in different genres.
 
 In this program, I used the json server to create mock API ,for display the data, use npm run server command.
 
